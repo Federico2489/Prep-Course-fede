@@ -1,0 +1,5 @@
+Variables expresadas en codigo con var es una especie de memoria para que despues traigamos la  informacion cuando la necesitemos
+Strings representadas con "" o '' son un conjunto de caracteres que integran letras numero y simbolos 
+las funciones sirven para hacer para agrupar varios codigos en uno solo.
+las declaracion If sirve para decir "si" tal cosa  es asi se le puede ddar una variable Encontrarás
+los valores booleanos sirven para definir si algo es true o false. 
