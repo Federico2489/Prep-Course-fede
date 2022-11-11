@@ -1,0 +1,5 @@
+for = es un bucle donde que va repetirse las veces que nosotros le marquemos.
+&& = sirve para indicar que todos los parametros tienen que ser true o false.
+|| = sirve para indicar que  almenos un parametro  tiene que se true o false 
+!=  sirve para indicar lo contrario de lo que le indicamos.
+
